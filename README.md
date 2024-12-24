@@ -25,7 +25,7 @@ Pastikan Anda telah menginstal `rclone` dan memiliki kredensial Google Drive yan
    nano backup.sh
    ```
 
-   Ubah pengaturan berikut sesuai dengan kebutuhan Anda:
+   Ubah konfigurasi sesuai dengan kebutuhan Anda
 
 3. **Beri Izin Eksekusi**
 
